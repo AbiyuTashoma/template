@@ -5,9 +5,9 @@ Auction website Semister Project
 
 ## Test status badges
 
-![Unit test](https://github.com/AbiyuTashoma/Auction/actions/Auction/unit-test.yml/badge.svg)
+![Unit test](https://github.com/AbiyuTashoma/Auction/actions/workflows/unit-test.yml/badge.svg)
 
-![End-2-End test](https://github.com/AbiyuTashoma/Auction/actions/workflow/e2e-test.yml/badge.svg)
+![End-2-End test](https://github.com/AbiyuTashoma/Auction/actions/workflows/e2e-test.yml/badge.svg)
 
 ## Features
 
