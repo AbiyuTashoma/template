@@ -31,7 +31,7 @@ Project description
 To get started clone the repo:
 
 ```
-https://github.com/AbiyuTashoma/Auction
+https://github.com/AbiyuTashoma/template
 ```
 and then
 ```
